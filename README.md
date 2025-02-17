@@ -1,6 +1,6 @@
-# myapp
+# myplanet
 
-A new Flutter project.
+Projeto realizado para a atividade 01 da unidade 12.
 
 ## Getting Started
 
